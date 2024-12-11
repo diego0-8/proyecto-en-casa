@@ -1,0 +1,45 @@
+.navbar{
+    background: #DB0030 !important;
+    font: 30px;
+}
+
+.navbar a{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-right: 20px;
+    /* position: absolute; */
+    left: 100px;
+    transition: .4s;
+}
+
+.navbar a:hover{
+    color: blueviolet;
+}
+
+
+
+#contenido{
+    background: #004D98;
+}
+
+
+.messi{
+    margin-top: 32px;
+    
+}
+
+.messi .nombre h2{
+    margin-top: 253px;
+    font-size: 60px;
+    color: green;
+    text-align: left;
+    font-weight: 400;
+}
+
+.messi .nombre b{
+    color: #FFD700;
+    font-size: 75px;
+    font-weight: 1000;
+
+}
